@@ -22,7 +22,6 @@ This study integrates two primary datasets:
 - **Temperature Data:** Annual temperature anomalies (°C) measured across multiple countries and decades.
 - **CO₂ Data:** Monthly global atmospheric CO₂ concentrations (ppm), representing the accumulation of greenhouse gases.
 
-*Data can be downloaded from the provided source link in the repository.*
 
 ##  **Methodology**
 
