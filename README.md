@@ -60,7 +60,7 @@ we will fit an Ordinary Least Squares (OLS) regression model. This model will us
    ![clustering](https://github.com/user-attachments/assets/397139de-c738-415b-a915-26560bb59343)
 
    K-Means clustering segments the data into distinct climate patterns, correlating different phases of temperature change with CO₂ levels.
-. **Predictive Modeling:**  
+8. **Predictive Modeling:**  
    What-if scenarios simulate the impact of adjusting CO₂ levels:
    - 10% increase → Predicted temperature anomaly: ~1.09°C
    - 10% decrease → Predicted temperature anomaly: ~-0.06°C
