@@ -1,11 +1,11 @@
-# 🪝 **Climate Change & Carbon Emissions Impact Analysis**
+#  **Climate Change & Carbon Emissions Impact Analysis**
 
-## 🪝 **Overview**
+##  **Overview**
 
 This repository presents a data-driven analysis of the impact of carbon emissions on global temperature anomalies. By exploring historical trends and the relationship between CO₂ concentrations and temperature changes, this project provides valuable insights for researchers, policymakers, and environmental advocates working to address climate change.
 
 
-## 🪝 **Project Description**
+##  **Project Description**
 
 Climate change is one of the most critical challenges of our time. This analysis investigates how rising carbon emissions correlate with global temperature increases. The project employs statistical methods, time-series analysis, and predictive modeling to:
 
@@ -15,7 +15,7 @@ Climate change is one of the most critical challenges of our time. This analysis
 - Cluster climate patterns to reveal distinct periods of low, moderate, and high temperature changes.
 - Simulate “what-if” scenarios to assess how modifications in CO₂ emissions might influence future temperatures.
 
-## 🪝 **Datasets**
+##  **Datasets**
 
 This study integrates two primary datasets:
 
@@ -24,7 +24,7 @@ This study integrates two primary datasets:
 
 *Data can be downloaded from the provided source link in the repository.*
 
-## 🪝 **Methodology**
+##  **Methodology**
 
 The analysis follows a systematic approach:
 
